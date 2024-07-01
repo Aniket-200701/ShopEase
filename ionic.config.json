@@ -1,0 +1,7 @@
+{
+  "name": "ShopEase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
